@@ -1,7 +1,7 @@
 Data Science & Cyber Security Enthusiast  
 
 **Email:** school.changez@gmail.com  
-**LinkedIn:** [linkedin.com/in/chang-ze-lim](https://www.linkedin.com/in/chang-ze-lim/)  
+**LinkedIn:** [linkedin.com/in/chang-ze-lim](https://www.linkedin.com/in/lim-chang-ze/)  
 
 ## About Me  
 
