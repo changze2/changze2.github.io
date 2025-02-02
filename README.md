@@ -3,107 +3,53 @@ Data Science & Cyber Security Enthusiast
 **Email:** school.changez@gmail.com  
 **LinkedIn:** [linkedin.com/in/chang-ze-lim](https://www.linkedin.com/in/lim-chang-ze/)  
 
-## About Me  
+# Data Scientist
 
-I am a **Year 2 Data Science student** at **Ngee Ann Polytechnic**, with a **minor in Cyber Security**. Passionate about **Machine Learning, Data Analytics, and AI**, I am eager to work on innovative projects and solve real-world challenges.  
+## Projects
+### Machine Learning | BrainHack Today-I-Learned AI _(May 2024)_  
+Developed three AI models focusing on:
+- Speech Recognition  
+- Audio-to-Text  
+- Computer Vision  
+Worked primarily on Computer Vision and Speech Recognition models. Utilized Docker for model submission.
 
----
+## Competitions
+- **Singapore AI CTF (GovTech & Dreadnode)** _(Oct 2024)_  
+  Explored red teaming AI and completed Capture the Flag challenges.
 
-## Education  
+- **BrainHack Today-I-Learned AI (Defence Science & Tech Agency)** _(May 2024)_  
+  Built a multi-modal AI model for text and audio processing. Gained experience with Docker technology.
 
-**Ngee Ann Polytechnic** (Apr 2023 - Apr 2026)  
-**Diploma in Data Science | Minor in Cyber Security**  
-- **Current GPA:** 3.60 / 4.0  
-- **Top Grades:** A+ in Programming I (Python) and Programming II (C#)  
+- **SMORPHI Robotics Roboroarz (SUTD)** _(Mar 2024)_  
+  Secured 1st place in the Senior category. Competed in multiple SMORPHI Robot challenges.
 
-**Jurong West Secondary School** (Jan 2019 - Jan 2022)  
-- **Top 5% of Cohort**  
-- **L1R4 & ELR2B2 Score:** 6 & 9 respectively  
-- **Captain of Volleyball Team**  
+## Education
+- **Diploma in Data Science | Minor in Cyber Security** | Ngee Ann Polytechnic _(Apr 2023 - Apr 2026)_  
+  **Current GPA:** 3.60 / 4.0  
+  **Top Grades:** A+ in Programming I (Python) and Programming II (C#)
 
----
+- **GCE O-Levels** | Jurong West Secondary School _(Jan 2019 - Jan 2022)_  
+  **Top 5% of Cohort**  
+  **L1R4 & ELR2B2 Score:** 6 & 9 respectively  
+  **Captain of Volleyball Team**  
 
-## Competitions  
+## Work Experience
+**Open House Helper for Data Science** | Ngee Ann Polytechnic _(Jan 2024)_  
+- Stationed in the Data Science Booth to attract students to the course  
+- Showcased Data Science projects using Alteryx and Power BI  
 
-- **Singapore AI CTF (GovTech & Dreadnode)** (Oct 2024)  
-  - Explored **red teaming AI** and completed **Capture the Flag challenges**  
+**Red Camp Helper for Data Science** | Ngee Ann Polytechnic _(Nov 2023)_  
+- Assisted in the demonstration and explanation of AI to Red Camp participants using Google’s Teachable Machine  
 
-- **BrainHack Today-I-Learned AI (Defence Science & Tech Agency)** (May 2024)  
-  - Built a **multi-modal AI model** for **text and audio processing**  
-  - Gained experience with **Docker technology**  
+## Volunteering
+**Community Service Volunteer** | Radin Mas Community Club _(May 2024)_  
+- Taught the elderly how to use the Healthy 365 App to improve their health.
 
-- **SMORPHI Robotics Roboroarz (SUTD)** (Mar 2024)  
-  - **1st place** in the **Senior category**  
-  - Competed in multiple **SMORPHI Robot challenges**  
+**Community Service Volunteer** | Boon Lay Community Centre _(Feb 2022)_  
+- Led lessons on using WhatsApp to help the elderly stay connected.
 
----
-
-## Project Experience  
-
-### Machine Learning | BrainHack Today-I-Learned AI (May 2024)  
-- Developed **three AI models**:  
-  - Speech Recognition  
-  - Audio-to-Text  
-  - Computer Vision  
-- Focused on **Computer Vision and Speech Recognition**  
-- Utilized **Docker** for model submission  
-
----
-
-## Skills  
-
-### Programming Languages  
-- Python  
-- C#  
-- SQL  
-
-### Software Proficiency  
-- Microsoft Excel  
-- AWS  
-- SAP Logon / SAP Analytics Cloud  
-- Jupyter Notebook  
-- Tableau  
-- Alteryx  
-
-### Personal Skills  
-- Teamwork  
-- Communication  
-- Passion to Learn  
-- Critical Thinking  
-- Problem Solving  
-
-### Languages  
-- **English (Fluent)**  
-- **Chinese (Fluent)**  
-
----
-
-## Co-Curricular Activities  
-
-**Open House Helper for Data Science | Ngee Ann Polytechnic** (Jan 2024)  
-- Helped attract students to the **Data Science course**  
-- Showcased projects using **Alteryx and Power BI**  
-
-**Red Camp Helper for Data Science | Ngee Ann Polytechnic** (Nov 2023)  
-- Demonstrated **AI applications** with **Google Teachable Machine**  
-
----
-
-## Volunteering  
-
-**Community Service Volunteer | Radin Mas Community Club** (May 2024)  
-- Taught the elderly how to use the **Healthy 365 App** for better health management  
-
-**Community Service Volunteer | Boon Lay Community Centre** (Feb 2022)  
-- Led lessons on using **WhatsApp** to help elderly stay connected  
-
----
-
-## Certifications  
-
-- **Alteryx Foundational Micro-Essentials**  
-- **Predictive Analytics (Data Mining) - LinkedIn Learning**  
-- **Data Literacy: Exploring and Describing Data - LinkedIn Learning**  
-- **Excel: Advanced Formulas and Functions - LinkedIn Learning**  
-
----
+## Certifications
+- Alteryx Foundational Micro-Essentials  
+- Predictive Analytics (Data Mining) - LinkedIn Learning  
+- Data Literacy: Exploring and Describing Data - LinkedIn Learning  
+- Excel: Advanced Formulas and Functions - LinkedIn Learning  
