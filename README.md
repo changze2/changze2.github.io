@@ -25,13 +25,9 @@ Worked primarily on Computer Vision and Speech Recognition models. Utilized Dock
 
 ## Education
 - **Diploma in Data Science | Minor in Cyber Security** | Ngee Ann Polytechnic _(Apr 2023 - Apr 2026)_  
-  **Current GPA:** 3.60 / 4.0  
-  **Top Grades:** A+ in Programming I (Python) and Programming II (C#)
 
 - **GCE O-Levels** | Jurong West Secondary School _(Jan 2019 - Jan 2022)_  
   **Top 5% of Cohort**  
-  **L1R4 & ELR2B2 Score:** 6 & 9 respectively  
-  **Captain of Volleyball Team**  
 
 ## Work Experience
 **Open House Helper for Data Science** | Ngee Ann Polytechnic _(Jan 2024)_  
