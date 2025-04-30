@@ -24,7 +24,7 @@ Worked primarily on Computer Vision and Speech Recognition models. Utilized Dock
   Secured 1st place in the Senior category. Competed in multiple SMORPHI Robot challenges.
 
 ## Education
-- **Diploma in Data Science | Minor in Cyber Security** | Ngee Ann Polytechnic _(Apr 2023 - Apr 2026)_  
+- **Diploma in Data Science with Minor in Cyber Security** | Ngee Ann Polytechnic _(Apr 2023 - Apr 2026)_  
 
 - **GCE O-Levels** | Jurong West Secondary School _(Jan 2019 - Jan 2022)_  
   **Top 5% of Cohort**  
