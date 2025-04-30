@@ -1,4 +1,3 @@
-<!---
 Data Science & Cyber Security Enthusiast  
 
 **Email:** school.changez@gmail.com  
@@ -50,4 +49,3 @@ Worked primarily on Computer Vision and Speech Recognition models. Utilized Dock
 - Predictive Analytics (Data Mining) - LinkedIn Learning  
 - Data Literacy: Exploring and Describing Data - LinkedIn Learning  
 - Excel: Advanced Formulas and Functions - LinkedIn Learning  
---->
